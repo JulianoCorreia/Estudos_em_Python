@@ -13,6 +13,7 @@ c = float(input('Terceiro segmento: '))
 print('Analisando o triângulo...')
 sleep(2)
 
+# A soma de dois lados não pode ser maior que o terceiro lado
 if a < b + c and b < a + c and c < a + b:
     print('Os segmentos acima PODEM FORMAR um triângulo.')
 else:
