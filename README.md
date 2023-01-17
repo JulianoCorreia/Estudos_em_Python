@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 Curso em Vídeo
 <br>
 Lista de exercícios em Python do Prof. Gustavo Guanabara
