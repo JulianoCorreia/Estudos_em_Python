@@ -1,4 +1,5 @@
-# Estudos_em_Python
-Estudos em Python
-
-Alguns estudos / exercícios em Python.
+Curso em Vídeo
+<br>
+Lista de exercícios em Python do Prof. Gustavo Guanabara
+<br>
+Módulos 01 a 05.
