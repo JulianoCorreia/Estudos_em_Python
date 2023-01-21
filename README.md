@@ -1,5 +1,7 @@
 Exercícios em Python do Prof. Gustavo Guanabara
 <br>
+Resolução de 100 exercícios.
+<br>
 Módulos 01 a 05.
 <br>
 Curso em Vídeo
