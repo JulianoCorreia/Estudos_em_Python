@@ -17,7 +17,7 @@ print('-=' * 28)
 n = int(input('Em que número eu pensei? '))
 print('PROCESSANDO...')
 sleep(2)
-# Jogador faz a escolha do noumero.
+# Jogador faz a escolha do numero.
 escolha = randint(1, 5)
 
 if n == escolha:
