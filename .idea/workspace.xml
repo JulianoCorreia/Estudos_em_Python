@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1e7ea1-1807-4cda-a117-99396f5309d5" name="Changes" comment="" />
+    <list default="true" id="ff1e7ea1-1807-4cda-a117-99396f5309d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Modulo02/Exercício Python #042 - Analisando Triângulos v2.0.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Modulo02/Exercício Python #044 - Gerenciador de Pagamentos.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Exercício Python #043 - Índice de Massa Corporal">
+  <component name="RunManager" selected="Python.Exercício Python #044 - Gerenciador de Pagamentos">
     <configuration name="Exercício Python #040 - Aquele clássico da Média" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_em_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício Python #043 - Índice de Massa Corporal" />
         <item itemvalue="Python.Exercício Python #044 - Gerenciador de Pagamentos" />
+        <item itemvalue="Python.Exercício Python #043 - Índice de Massa Corporal" />
         <item itemvalue="Python.Exercício Python #042 - Analisando Triângulos v2.0" />
         <item itemvalue="Python.Exercício Python #041 - Classificando Atletas" />
         <item itemvalue="Python.Exercício Python #040 - Aquele clássico da Média" />
