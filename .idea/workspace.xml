@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff1e7ea1-1807-4cda-a117-99396f5309d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo01/Exercício Python #028 - Jogo da Adivinhação v.1.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo01/Exercício Python #028 - Jogo da Adivinhação v.1.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo02/Exercício Python #045 - GAME Pedra Papel e Tesoura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo02/Exercício Python #045 - GAME Pedra Papel e Tesoura.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Modulo02/Exercício Python #042 - Analisando Triângulos v2.0.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Modulo02/Exercício Python #044 - Gerenciador de Pagamentos.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modulo02/Exercício Python #045 - GAME Pedra Papel e Tesoura.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Meus Documentos/Documentos/#CURSOS -ESTUDOS#/Github/Estudos_em_Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Meus Documentos/Documentos/#CURSOS -ESTUDOS#/Curso em Video/Python",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Exercício Python #045 - GAME Pedra Papel e Tesoura">
     <configuration name="Exercício Python #041 - Classificando Atletas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_em_Python" />

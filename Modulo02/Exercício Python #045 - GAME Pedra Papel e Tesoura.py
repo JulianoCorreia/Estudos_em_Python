@@ -22,21 +22,33 @@ computador = randint(0, 2)
 
 #Jogador escolhe;
 jogador = int(input('QUAL SUA JOGADA? '))
-print('JO')
+
+print("")
+if jogador >= 3:
+    print('\033[7:41:46m JOGADA INVÁLIDA!\033[m')
+    exit()
+
+print('   JO')
 sleep(0.5)
-print('KEN')
+print('    KEN')
 sleep(0.5)
-print('PO !')
+print('   PO !')
 sleep(0.5)
 
 computador = randint(0, 2)
+print("")
+print('=-='*10)
+print(f'JOGADOR ==> {itens[jogador]}')
+print(f'COMPUTADOR ==> {itens[computador]}')
+print('=-='*10)
+print("")
 
 #Computador PEDRA;
 if computador == 0:
 
     #Jogador PEDRA;
     if jogador == 0:
-        print('\033[0:36:32 EMPATOU')
+        print('\033[0:36:32m EMPATOU \033[m')
 
     #Jogador PAPEL;
     elif jogador == 1:
@@ -46,8 +58,6 @@ if computador == 0:
     elif jogador == 2:
         print('\033[0:37:40m COMPUTADOR VENCE \033[m')
 
-    else:
-        print('\033[7:41:46m JOGADA INVÁLIDA! \033[m')
 
 #Computador PAPEL;
 elif computador == 1:
@@ -64,9 +74,6 @@ elif computador == 1:
     elif jogador ==2:
         print('\033[0:31:40m JOGADOR VENCE \033[m')
 
-    else:
-        print('\033[7:41:46m JOGADA INVÁLIDA!\033[m')
-
 
 #Computador TESOURA;
 elif computador == 2:
@@ -82,9 +89,3 @@ elif computador == 2:
     #Jogador TESOURA;
     elif jogador == 2:
         print('\033[0:36:32m EMPATOU \033[m')
-
-    else:
-        print('\033[7:41:46m JOGADA INVÁLIDA! \033[m')
-
-print(f'JOGADOR ==> {itens[jogador]}')
-print(f'COMPUTADOR ==> {itens[computador]}')
