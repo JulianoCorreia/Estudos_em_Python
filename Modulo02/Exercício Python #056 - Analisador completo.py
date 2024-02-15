@@ -10,7 +10,7 @@ print('=====   DESAFIO 056   =====')
 print('')
 
 total_mulheres = 0
-homem_maior_idade= 0
+homem_maior_idade = 0
 nome_mais_velho = 0
 soma_idade = 0
 
